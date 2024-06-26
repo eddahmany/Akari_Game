@@ -1,7 +1,6 @@
 # Akari_Game
 # Akari Game 
-![akari_1](https://github.com/eddahmany/Akari_Game/assets/138607985/b62c9d9a-0800-4574-ab7e-e2aeb51c13ca)
-![akari_2](https://github.com/eddahmany/Akari_Game/assets/138607985/adfb9df4-7ff0-4aaf-9505-b09e5dec116b)
+![akari](https://github.com/eddahmany/Akari_Game/assets/138607985/24232fad-e7a7-4fbe-ae56-c6a01c3060ea)
 
 
 The project involves developing a graphical interface to play the Akari game. Akari is a mathematical logic game played on a grid containing black and white cells. The goal of the game is to illuminate all the white cells by correctly placing bulbs on the grid while adhering to the following two rules:
