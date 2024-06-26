@@ -1,0 +1,12 @@
+./matrixcommand.h
+./Akiri.pro
+./rapport.pdf
+./matrixcommand.cpp
+./gamemodel.cpp
+./gamemodel.h
+./mainwindow.h
+./mainwindow.cpp
+./gamewindow.cpp
+./gamewindow.h
+./files.txt
+./main.cpp
