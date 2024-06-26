@@ -4,11 +4,15 @@
 
 
 The project involves developing a graphical interface to play the Akari game. Akari is a mathematical logic game played on a grid containing black and white cells. The goal of the game is to illuminate all the white cells by correctly placing bulbs on the grid while adhering to the following two rules:
+
 ✓ A bulb cannot illuminate another bulb (the light beam emitted by a bulb cannot reach a cell occupied by another bulb).
+
 ✓ Some black cells contain a number. This number is always between 0 and 4. It indicates the number of adjacent cells (horizontally or vertically, but not diagonally) containing a bulb.
 
 In our project, we separated the game model and the view into two different classes:
+
 - `GameModel`: Defines the Akari game model.
+  
 - `GameWindow`: Defines the Akari game view.
 
 ## 1. Model
